@@ -14,7 +14,7 @@
     "@types/jquery": "^3.3.31",
     "@types/lodash": "^4.14.136",
     "@types/toastr": "^2.1.37",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "liquor-tree": "^0.2.60",
     "material-design-icons": "^3.0.1",
